@@ -6,7 +6,7 @@ output=$(cat $DIR/TEMPLATE.md)
 markup=""
 for file in $(ls $DIR/../assets/logos/*.svg); do
   name=$(basename $file)
-  markup="${markup}| ![${name}](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/${name}?sanitize=true) | ${name} |\n"
+  markup="${markup}| ![${name}](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/${name}?sanitize=true) | assets/logos/${name} |\n"
 done
 
 output=${output/"<!-- LOGOS -->"/"$markup"}
@@ -14,7 +14,7 @@ output=${output/"<!-- LOGOS -->"/"$markup"}
 markup=""
 for file in $(ls $DIR/../assets/banners/*.svg); do
   name=$(basename $file)
-  markup="${markup}| ![${name}](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/${name}?sanitize=true) | ${name} |\n"
+  markup="${markup}| ![${name}](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/${name}?sanitize=true) | assets/banners/${name} |\n"
 done
 output=${output/"<!-- BANNERS -->"/"$markup"}
 

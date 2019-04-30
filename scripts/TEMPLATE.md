@@ -5,12 +5,12 @@ website.
 
 ## Logos
 
-| Asset | Name |
+| Asset | Path |
 | ----- | ---- |
 <!-- LOGOS -->
 
 ## Banners
 
-| Asset | Name |
+| Asset | Path |
 | ----- | ---- |
 <!-- BANNERS -->
