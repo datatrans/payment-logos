@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="80px" viewBox="0 0 120 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>card_rechnung</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="export-badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="production-final" transform="translate(-36.000000, -5653.000000)">
+            <g id="card_rechnung" transform="translate(36.000000, 5653.000000)">
+                <rect id="Rectangle-11" fill="#FFFFFF" x="0" y="0" width="120" height="80" rx="4"></rect>
+                <g id="kauf-auf-rechnung-final" transform="translate(23.000000, 18.000000)" fill-rule="nonzero">
+                    <rect id="Rectangle-path" fill="#FCEEDC" x="0" y="0" width="74.999833" height="45"></rect>
+                    <rect id="Rectangle-path" fill="#FFFFFF" x="20" y="37.5003885" width="52.5" height="5"></rect>
+                    <path d="M61.25,12.5 C63.3177568,12.5 65,14.182248 65,16.25 C65,18.317752 63.3177568,20 61.25,20 C59.1822432,20 57.5,18.317752 57.5,16.25 C57.5,14.182248 59.1822432,12.5 61.25,12.5 L61.25,12.5 Z M61.25,10 C57.798233,10 55,12.7982235 55,16.25 C55,19.7017765 57.798233,22.5 61.25,22.5 C64.701767,22.5 67.5,19.7017765 67.5,16.25 C67.5,12.7982235 64.701767,10 61.25,10 L61.25,10 Z" id="Shape" fill="#FFA000"></path>
+                    <path d="M11.25,30 C13.3177568,30 15,31.6822505 15,33.75 C15,35.8177495 13.3177568,37.5 11.25,37.5 C9.18224325,37.5 7.5,35.8177495 7.5,33.75 C7.5,31.6822505 9.18224325,30 11.25,30 L11.25,30 Z M11.25,27.5 C7.798233,27.5 5,30.298226 5,33.75 C5,37.201774 7.798233,40 11.25,40 C14.701767,40 17.5,37.201774 17.5,33.75 C17.5,30.298226 14.701767,27.5 11.25,27.5 L11.25,27.5 Z" id="Shape" fill="#FFA000"></path>
+                    <polygon id="Shape" fill="#805000" points="0 8.75 74.999833 8.75 74.999833 6.25 0 6.25"></polygon>
+                    <polygon id="Shape" fill="#805000" points="50 37.5003885 50 7.5 47.5 7.5 47.5 37.5003885"></polygon>
+                    <polygon id="Shape" fill="#805000" points="48.75 27.4998427 75 27.4998427 75 24.9998427 48.75 24.9998427"></polygon>
+                    <polygon id="Shape" fill="#805000" points="22.5 0 22.5 7.5 25 7.5 25 0"></polygon>
+                    <rect id="Rectangle-path" fill="#FFA000" x="5" y="18.7499582" width="20" height="5"></rect>
+                    <rect id="Rectangle-path" fill="#FFA000" x="27.5" y="18.7499582" width="17.5" height="5"></rect>
+                    <rect id="Rectangle-path" fill="#FFA000" x="52.5" y="29.9998427" width="17.5" height="5"></rect>
+                    <path d="M72.4998283,2.5 L72.4998283,42.5 L2.5,42.5 L2.5,2.5 L72.4998283,2.5 L72.4998283,2.5 Z M74.9998283,0 L0,0 L0,45 L74.9998283,45 L74.9998283,0 L74.9998283,0 Z" id="Shape" fill="#805000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

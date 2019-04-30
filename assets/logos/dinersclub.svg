@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="80px" viewBox="0 0 120 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>card_diners</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#007DC9" offset="0%"></stop>
+            <stop stop-color="#023161" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="assets-various" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-2" sketch:type="MSArtboardGroup" transform="translate(-35.000000, -636.000000)">
+            <g id="card_diners" sketch:type="MSLayerGroup" transform="translate(35.000000, 636.000000)">
+                <rect id="Rectangle-11" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" x="0" y="0" width="120" height="80" rx="4"></rect>
+                <path d="M64.8538355,63.1688759 C78.4753865,63.23382 90.9083273,52.097743 90.9083273,38.5502619 C90.9083273,23.7353376 78.4753865,13.4950743 64.8538355,13.5000018 L53.1308963,13.5000018 C39.3461834,13.4950743 28,23.7383927 28,38.5502619 C28,52.1006995 39.3461834,63.2339185 53.1308963,63.1688759 L64.8538355,63.1688759 L64.8538355,63.1688759 Z" id="Shape-3" fill="#0079BE" sketch:type="MSShapeGroup"></path>
+                <path d="M53.139419,15.486755 C40.5433162,15.4906969 30.3362999,25.6659177 30.3333333,38.2241604 C30.3362999,50.7802349 40.5432173,60.9544702 53.139419,60.9584122 C65.7384884,60.9544702 75.9475813,50.7802349 75.9493613,38.2241604 C75.9474824,25.6659177 65.7384884,15.4906969 53.139419,15.486755 L53.139419,15.486755 Z M38.6832699,38.2241604 L38.6832699,38.2241604 C38.6951362,32.0874921 42.5408141,26.8545214 47.9637241,24.7750315 L47.9637241,51.6701356 C42.5408141,49.5918283 38.6950374,44.3617155 38.6832699,38.2241604 L38.6832699,38.2241604 Z M58.3131362,51.6760486 L58.3131362,51.6760486 L58.3131362,24.7741446 C63.738024,26.8486085 67.589635,32.0845356 67.5995236,38.2241604 C67.589635,44.3656575 63.738024,49.5976427 58.3131362,51.6760486 L58.3131362,51.6760486 Z" id="Shape-2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
