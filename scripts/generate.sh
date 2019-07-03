@@ -12,6 +12,14 @@ done
 output=${output/"<!-- LOGOS -->"/"$markup"}
 
 markup=""
+for file in $(ls $DIR/../assets/secure-logos/*.svg); do
+  name=$(basename $file)
+  markup="${markup}| ![${name}](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/secure-logos/${name}?sanitize=true) | assets/secure-logos/${name} |\n"
+done
+
+output=${output/"<!-- SECURE_LOGOS -->"/"$markup"}
+
+markup=""
 for file in $(ls $DIR/../assets/banners/*.svg); do
   name=$(basename $file)
   markup="${markup}| ![${name}](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/${name}?sanitize=true) | assets/banners/${name} |\n"
