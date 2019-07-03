@@ -9,6 +9,12 @@ website.
 | ----- | ---- |
 <!-- LOGOS -->
 
+## Secure Logos
+
+| Asset | Path |
+| ----- | ---- |
+<!-- SECURE_LOGOS -->
+
 ## Banners
 
 | Asset | Path |

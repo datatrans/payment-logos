@@ -59,6 +59,17 @@ website.
 | ![vpay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/vpay.svg?sanitize=true) | assets/logos/vpay.svg |
 
 
+## Secure Logos
+
+| Asset | Path |
+| ----- | ---- |
+| ![amex-safekey.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/secure-logos/amex-safekey.svg?sanitize=true) | assets/secure-logos/amex-safekey.svg |
+| ![diners-protectbuy.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/secure-logos/diners-protectbuy.svg?sanitize=true) | assets/secure-logos/diners-protectbuy.svg |
+| ![discover-protectbuy.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/secure-logos/discover-protectbuy.svg?sanitize=true) | assets/secure-logos/discover-protectbuy.svg |
+| ![mastercard-idcheck.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/secure-logos/mastercard-idcheck.svg?sanitize=true) | assets/secure-logos/mastercard-idcheck.svg |
+| ![visa-secure.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/secure-logos/visa-secure.svg?sanitize=true) | assets/secure-logos/visa-secure.svg |
+
+
 ## Banners
 
 | Asset | Path |
