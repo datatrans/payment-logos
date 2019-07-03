@@ -3,6 +3,10 @@
 Use the following assets when integrating Datatrans payment solutions to your
 website.
 
+- [Logos](#logos)
+- [Secure Logos](#secure-logos)
+- [Datatrans Banners](#datatrans-banners)
+
 ## Logos
 
 | Asset | Path |
@@ -70,7 +74,7 @@ website.
 | ![visa-secure.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/secure-logos/visa-secure.svg?sanitize=true) | assets/secure-logos/visa-secure.svg |
 
 
-## Banners
+## Datatrans Banners
 
 | Asset | Path |
 | ----- | ---- |
