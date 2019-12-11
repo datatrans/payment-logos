@@ -12,6 +12,7 @@ website.
 | Asset | Path |
 | ----- | ---- |
 | ![accarda.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/accarda.svg?sanitize=true) | assets/logos/accarda.svg |
+| ![amazon-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/amazon-pay.svg?sanitize=true) | assets/logos/amazon-pay.svg |
 | ![amex.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/amex.svg?sanitize=true) | assets/logos/amex.svg |
 | ![applepay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/applepay.svg?sanitize=true) | assets/logos/applepay.svg |
 | ![bancontact.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/bancontact.svg?sanitize=true) | assets/logos/bancontact.svg |
