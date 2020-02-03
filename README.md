@@ -23,6 +23,7 @@ website.
 | ![byjuno.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/byjuno.svg?sanitize=true) | assets/logos/byjuno.svg |
 | ![byjuno_generic.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/byjuno_generic.svg?sanitize=true) | assets/logos/byjuno_generic.svg |
 | ![cartebleue.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/cartebleue.svg?sanitize=true) | assets/logos/cartebleue.svg |
+| ![coinify.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/coinify.svg?sanitize=true) | assets/logos/coinify.svg |
 | ![crif.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/crif.svg?sanitize=true) | assets/logos/crif.svg |
 | ![dankort.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/dankort.svg?sanitize=true) | assets/logos/dankort.svg |
 | ![dinersclub.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/dinersclub.svg?sanitize=true) | assets/logos/dinersclub.svg |
