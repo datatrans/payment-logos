@@ -25,6 +25,7 @@ website.
 | ![cartebleue.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/cartebleue.svg?sanitize=true) | assets/logos/cartebleue.svg |
 | ![coinify.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/coinify.svg?sanitize=true) | assets/logos/coinify.svg |
 | ![crif.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/crif.svg?sanitize=true) | assets/logos/crif.svg |
+| ![crypto.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/crypto.svg?sanitize=true) | assets/logos/crypto.svg |
 | ![dankort.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/dankort.svg?sanitize=true) | assets/logos/dankort.svg |
 | ![dinersclub.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/dinersclub.svg?sanitize=true) | assets/logos/dinersclub.svg |
 | ![discover.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/discover.svg?sanitize=true) | assets/logos/discover.svg |
