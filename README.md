@@ -39,6 +39,7 @@ website.
 | ![ideal.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/ideal.svg?sanitize=true) | assets/logos/ideal.svg |
 | ![jcb.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/jcb.svg?sanitize=true) | assets/logos/jcb.svg |
 | ![klarna.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/klarna.svg?sanitize=true) | assets/logos/klarna.svg |
+| ![lunch-check.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/lunch-check.svg?sanitize=true) | assets/logos/lunch-check.svg |
 | ![maestro-alt.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/maestro-alt.svg?sanitize=true) | assets/logos/maestro-alt.svg |
 | ![maestro.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/maestro.svg?sanitize=true) | assets/logos/maestro.svg |
 | ![mastercard-alt.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/mastercard-alt.svg?sanitize=true) | assets/logos/mastercard-alt.svg |
