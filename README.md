@@ -11,11 +11,11 @@ website.
 
 | Asset | Path |
 | ----- | ---- |
-| ![accarda.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/accarda.svg?sanitize=true) | assets/logos/accarda.svg |
 | ![alipay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/alipay.svg?sanitize=true) | assets/logos/alipay.svg |
 | ![amazon-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/amazon-pay.svg?sanitize=true) | assets/logos/amazon-pay.svg |
 | ![amex.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/amex.svg?sanitize=true) | assets/logos/amex.svg |
 | ![applepay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/applepay.svg?sanitize=true) | assets/logos/applepay.svg |
+| ![availabill.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/availabill.svg?sanitize=true) | assets/logos/availabill.svg |
 | ![bancontact.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/bancontact.svg?sanitize=true) | assets/logos/bancontact.svg |
 | ![billpay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/billpay.svg?sanitize=true) | assets/logos/billpay.svg |
 | ![boncard.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/boncard.svg?sanitize=true) | assets/logos/boncard.svg |
