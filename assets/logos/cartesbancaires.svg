@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="120px" height="80px" viewBox="0 0 120 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
-    <title>card_cardbleue</title>
+    <title>cartesbancaires</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="99.9880427%" id="linearGradient-1">
@@ -14,7 +14,7 @@
     </defs>
     <g id="assets-card-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="production-final" sketch:type="MSArtboardGroup" transform="translate(-36.000000, -3643.000000)">
-            <g id="card_cardbleue" sketch:type="MSLayerGroup" transform="translate(36.000000, 3643.000000)">
+            <g id="cartesbancaires" sketch:type="MSLayerGroup" transform="translate(36.000000, 3643.000000)">
                 <rect id="Rectangle-11" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" x="0" y="0" width="120" height="80" rx="4"></rect>
                 <g id="Page-1" transform="translate(14.000000, 20.000000)">
                     <g id="Group-3">
