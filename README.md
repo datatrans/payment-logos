@@ -46,7 +46,6 @@ website.
 | ![mediamarkt.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/mediamarkt.svg?sanitize=true) | assets/logos/mediamarkt.svg |
 | ![migros-bank.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/migros-bank.svg?sanitize=true) | assets/logos/migros-bank.svg |
 | ![migros-giftcard.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/migros-giftcard.svg?sanitize=true) | assets/logos/migros-giftcard.svg |
-| ![myone.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/myone.svg?sanitize=true) | assets/logos/myone.svg |
 | ![paypal.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/paypal.svg?sanitize=true) | assets/logos/paypal.svg |
 | ![paysafecard.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/paysafecard.svg?sanitize=true) | assets/logos/paysafecard.svg |
 | ![pointspay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/pointspay.svg?sanitize=true) | assets/logos/pointspay.svg |
