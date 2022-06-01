@@ -11,6 +11,7 @@ website.
 
 | Asset | Path |
 | ----- | ---- |
+| ![alipay-plus.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/alipay-plus.svg?sanitize=true) | assets/logos/alipay-plus.svg |
 | ![alipay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/alipay.svg?sanitize=true) | assets/logos/alipay.svg |
 | ![amazon-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/amazon-pay.svg?sanitize=true) | assets/logos/amazon-pay.svg |
 | ![american-express.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/american-express.svg?sanitize=true) | assets/logos/american-express.svg |
@@ -63,6 +64,7 @@ website.
 | ![unionpay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/unionpay.svg?sanitize=true) | assets/logos/unionpay.svg |
 | ![visa.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/visa.svg?sanitize=true) | assets/logos/visa.svg |
 | ![vpay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/vpay.svg?sanitize=true) | assets/logos/vpay.svg |
+| ![wechat-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/wechat-pay.svg?sanitize=true) | assets/logos/wechat-pay.svg |
 
 
 ## Secure Logos
