@@ -35,6 +35,7 @@ website.
 | ![giftcard.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/giftcard.svg?sanitize=true) | assets/logos/giftcard.svg |
 | ![giropay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/giropay.svg?sanitize=true) | assets/logos/giropay.svg |
 | ![google-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/google-pay.svg?sanitize=true) | assets/logos/google-pay.svg |
+| ![hipercard.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/hipercard.svg?sanitize=true) | assets/logos/hipercard.svg |
 | ![ideal.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/ideal.svg?sanitize=true) | assets/logos/ideal.svg |
 | ![invoice.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/invoice.svg?sanitize=true) | assets/logos/invoice.svg |
 | ![jcb.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/jcb.svg?sanitize=true) | assets/logos/jcb.svg |
