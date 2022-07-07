@@ -38,7 +38,6 @@ website.
 | ![gift-card-generic-alt.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/gift-card-generic-alt.svg?sanitize=true) | assets/logos/gift-card-generic-alt.svg |
 | ![gift-card-generic-gold.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/gift-card-generic-gold.svg?sanitize=true) | assets/logos/gift-card-generic-gold.svg |
 | ![gift-card-generic.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/gift-card-generic.svg?sanitize=true) | assets/logos/gift-card-generic.svg |
-| ![giftcard.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/giftcard.svg?sanitize=true) | assets/logos/giftcard.svg |
 | ![giropay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/giropay.svg?sanitize=true) | assets/logos/giropay.svg |
 | ![google-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/google-pay.svg?sanitize=true) | assets/logos/google-pay.svg |
 | ![hipercard.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/hipercard.svg?sanitize=true) | assets/logos/hipercard.svg |
