@@ -62,6 +62,7 @@ website.
 | ![reka.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/reka.svg?sanitize=true) | assets/logos/reka.svg |
 | ![samsung-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/samsung-pay.svg?sanitize=true) | assets/logos/samsung-pay.svg |
 | ![skrill.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/skrill.svg?sanitize=true) | assets/logos/skrill.svg |
+| ![swish.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/swish.svg?sanitize=true) | assets/logos/swish.svg |
 | ![swissbilling.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/swissbilling.svg?sanitize=true) | assets/logos/swissbilling.svg |
 | ![swisscom-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/swisscom-pay.svg?sanitize=true) | assets/logos/swisscom-pay.svg |
 | ![swisspass.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/swisspass.svg?sanitize=true) | assets/logos/swisspass.svg |
