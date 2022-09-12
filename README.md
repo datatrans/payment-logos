@@ -69,6 +69,7 @@ website.
 | ![twint.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/twint.svg?sanitize=true) | assets/logos/twint.svg |
 | ![uatp.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/uatp.svg?sanitize=true) | assets/logos/uatp.svg |
 | ![unionpay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/unionpay.svg?sanitize=true) | assets/logos/unionpay.svg |
+| ![vipps.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/vipps.svg?sanitize=true) | assets/logos/vipps.svg |
 | ![visa.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/visa.svg?sanitize=true) | assets/logos/visa.svg |
 | ![vpay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/vpay.svg?sanitize=true) | assets/logos/vpay.svg |
 | ![wechat-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/wechat-pay.svg?sanitize=true) | assets/logos/wechat-pay.svg |
