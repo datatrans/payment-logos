@@ -1,28 +1,149 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="120px" height="80px" viewBox="0 0 120 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>card_rechnung</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="export-badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="production-final" transform="translate(-36.000000, -5653.000000)">
-            <g id="card_rechnung" transform="translate(36.000000, 5653.000000)">
-                <rect id="Rectangle-11" fill="#FFFFFF" x="0" y="0" width="120" height="80" rx="4"></rect>
-                <g id="kauf-auf-rechnung-final" transform="translate(23.000000, 18.000000)" fill-rule="nonzero">
-                    <rect id="Rectangle-path" fill="#FCEEDC" x="0" y="0" width="74.999833" height="45"></rect>
-                    <rect id="Rectangle-path" fill="#FFFFFF" x="20" y="37.5003885" width="52.5" height="5"></rect>
-                    <path d="M61.25,12.5 C63.3177568,12.5 65,14.182248 65,16.25 C65,18.317752 63.3177568,20 61.25,20 C59.1822432,20 57.5,18.317752 57.5,16.25 C57.5,14.182248 59.1822432,12.5 61.25,12.5 L61.25,12.5 Z M61.25,10 C57.798233,10 55,12.7982235 55,16.25 C55,19.7017765 57.798233,22.5 61.25,22.5 C64.701767,22.5 67.5,19.7017765 67.5,16.25 C67.5,12.7982235 64.701767,10 61.25,10 L61.25,10 Z" id="Shape" fill="#FFA000"></path>
-                    <path d="M11.25,30 C13.3177568,30 15,31.6822505 15,33.75 C15,35.8177495 13.3177568,37.5 11.25,37.5 C9.18224325,37.5 7.5,35.8177495 7.5,33.75 C7.5,31.6822505 9.18224325,30 11.25,30 L11.25,30 Z M11.25,27.5 C7.798233,27.5 5,30.298226 5,33.75 C5,37.201774 7.798233,40 11.25,40 C14.701767,40 17.5,37.201774 17.5,33.75 C17.5,30.298226 14.701767,27.5 11.25,27.5 L11.25,27.5 Z" id="Shape" fill="#FFA000"></path>
-                    <polygon id="Shape" fill="#805000" points="0 8.75 74.999833 8.75 74.999833 6.25 0 6.25"></polygon>
-                    <polygon id="Shape" fill="#805000" points="50 37.5003885 50 7.5 47.5 7.5 47.5 37.5003885"></polygon>
-                    <polygon id="Shape" fill="#805000" points="48.75 27.4998427 75 27.4998427 75 24.9998427 48.75 24.9998427"></polygon>
-                    <polygon id="Shape" fill="#805000" points="22.5 0 22.5 7.5 25 7.5 25 0"></polygon>
-                    <rect id="Rectangle-path" fill="#FFA000" x="5" y="18.7499582" width="20" height="5"></rect>
-                    <rect id="Rectangle-path" fill="#FFA000" x="27.5" y="18.7499582" width="17.5" height="5"></rect>
-                    <rect id="Rectangle-path" fill="#FFA000" x="52.5" y="29.9998427" width="17.5" height="5"></rect>
-                    <path d="M72.4998283,2.5 L72.4998283,42.5 L2.5,42.5 L2.5,2.5 L72.4998283,2.5 L72.4998283,2.5 Z M74.9998283,0 L0,0 L0,45 L74.9998283,45 L74.9998283,0 L74.9998283,0 Z" id="Shape" fill="#805000"></path>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg width="120" height="80" viewBox="0 0 120 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="120" height="80" rx="4" fill="white"/>
+<g clip-path="url(#clip0_804_15)">
+<rect x="5" y="7" width="20" height="4" rx="2" fill="#707070"/>
+<rect x="5" y="14" width="17" height="4" rx="2" fill="#707070"/>
+<rect x="5" y="21" width="22" height="4" rx="2" fill="#707070"/>
+</g>
+<g clip-path="url(#clip1_804_15)">
+<rect x="81" y="7" width="20" height="4" rx="2" fill="#707070"/>
+<rect x="81" y="14" width="17" height="4" rx="2" fill="#707070"/>
+<rect x="81" y="21" width="22" height="4" rx="2" fill="#707070"/>
+</g>
+<g clip-path="url(#clip2_804_15)">
+<rect width="3" height="3" transform="translate(40 7)" fill="black"/>
+<rect width="3" height="3" transform="translate(43 7)" fill="white"/>
+<rect width="3" height="3" transform="translate(46 7)" fill="black"/>
+<rect width="3" height="3" transform="translate(49 7)" fill="white"/>
+<rect width="3" height="3" transform="translate(52 7)" fill="black"/>
+<rect width="3" height="3" transform="translate(55 7)" fill="white"/>
+<rect width="3" height="3" transform="translate(58 7)" fill="black"/>
+<rect width="3" height="3" transform="translate(61 7)" fill="white"/>
+<rect width="3" height="3" transform="translate(64 7)" fill="black"/>
+<rect width="3" height="3" transform="translate(67 7)" fill="white"/>
+<rect width="3" height="3" transform="translate(70 7)" fill="black"/>
+<rect width="3" height="3" transform="translate(73 7)" fill="white"/>
+<rect width="3" height="3" transform="translate(40 10)" fill="white"/>
+<rect width="3" height="3" transform="translate(43 10)" fill="white"/>
+<rect width="3" height="3" transform="translate(46 10)" fill="white"/>
+<rect width="3" height="3" transform="translate(49 10)" fill="black"/>
+<rect width="3" height="3" transform="translate(52 10)" fill="black"/>
+<rect width="3" height="3" transform="translate(55 10)" fill="white"/>
+<rect width="3" height="3" transform="translate(58 10)" fill="white"/>
+<rect width="3" height="3" transform="translate(61 10)" fill="black"/>
+<rect width="3" height="3" transform="translate(64 10)" fill="white"/>
+<rect width="3" height="3" transform="translate(67 10)" fill="black"/>
+<rect width="3" height="3" transform="translate(70 10)" fill="white"/>
+<rect width="3" height="3" transform="translate(73 10)" fill="black"/>
+<rect width="3" height="3" transform="translate(40 13)" fill="black"/>
+<rect width="3" height="3" transform="translate(43 13)" fill="white"/>
+<rect width="3" height="3" transform="translate(46 13)" fill="black"/>
+<rect width="3" height="3" transform="translate(49 13)" fill="white"/>
+<rect width="3" height="3" transform="translate(52 13)" fill="black"/>
+<rect width="3" height="3" transform="translate(55 13)" fill="white"/>
+<rect width="3" height="3" transform="translate(58 13)" fill="black"/>
+<rect width="3" height="3" transform="translate(61 13)" fill="white"/>
+<rect width="3" height="3" transform="translate(64 13)" fill="black"/>
+<rect width="3" height="3" transform="translate(67 13)" fill="white"/>
+<rect width="3" height="3" transform="translate(70 13)" fill="black"/>
+<rect width="3" height="3" transform="translate(73 13)" fill="white"/>
+<rect width="3" height="3" transform="translate(40 16)" fill="white"/>
+<rect width="3" height="3" transform="translate(43 16)" fill="black"/>
+<rect width="3" height="3" transform="translate(46 16)" fill="white"/>
+<rect width="3" height="3" transform="translate(49 16)" fill="black"/>
+<rect width="3" height="3" transform="translate(52 16)" fill="white"/>
+<rect width="3" height="3" transform="translate(55 16)" fill="black"/>
+<rect width="3" height="3" transform="translate(58 16)" fill="white"/>
+<rect width="3" height="3" transform="translate(61 16)" fill="white"/>
+<rect width="3" height="3" transform="translate(64 16)" fill="black"/>
+<rect width="3" height="3" transform="translate(67 16)" fill="white"/>
+<rect width="3" height="3" transform="translate(70 16)" fill="white"/>
+<rect width="3" height="3" transform="translate(73 16)" fill="black"/>
+<rect width="3" height="3" transform="translate(40 19)" fill="black"/>
+<rect width="3" height="3" transform="translate(43 19)" fill="white"/>
+<rect width="3" height="3" transform="translate(46 19)" fill="white"/>
+<rect width="3" height="3" transform="translate(49 19)" fill="white"/>
+<rect width="3" height="3" transform="translate(52 19)" fill="black"/>
+<rect width="3" height="3" transform="translate(55 19)" fill="black"/>
+<rect width="3" height="3" transform="translate(58 19)" fill="black"/>
+<rect width="3" height="3" transform="translate(61 19)" fill="white"/>
+<rect width="3" height="3" transform="translate(64 19)" fill="black"/>
+<rect width="3" height="3" transform="translate(67 19)" fill="white"/>
+<rect width="3" height="3" transform="translate(70 19)" fill="black"/>
+<rect width="3" height="3" transform="translate(73 19)" fill="white"/>
+<rect width="3" height="3" transform="translate(40 22)" fill="white"/>
+<rect width="3" height="3" transform="translate(43 22)" fill="black"/>
+<rect width="3" height="3" transform="translate(46 22)" fill="white"/>
+<rect width="3" height="3" transform="translate(49 22)" fill="black"/>
+<rect width="3" height="3" transform="translate(52 22)" fill="white"/>
+<rect width="3" height="3" transform="translate(55 22)" fill="black"/>
+<rect width="3" height="3" transform="translate(58 22)" fill="white"/>
+<rect width="3" height="3" transform="translate(61 22)" fill="black"/>
+<rect width="3" height="3" transform="translate(64 22)" fill="white"/>
+<rect width="3" height="3" transform="translate(67 22)" fill="black"/>
+<rect width="3" height="3" transform="translate(70 22)" fill="white"/>
+<rect width="3" height="3" transform="translate(73 22)" fill="black"/>
+<rect width="3" height="3" transform="translate(40 25)" fill="black"/>
+<rect width="3" height="3" transform="translate(43 25)" fill="white"/>
+<rect width="3" height="3" transform="translate(46 25)" fill="black"/>
+<rect width="3" height="3" transform="translate(49 25)" fill="white"/>
+<rect width="3" height="3" transform="translate(52 25)" fill="black"/>
+<rect width="3" height="3" transform="translate(55 25)" fill="white"/>
+<rect width="3" height="3" transform="translate(58 25)" fill="black"/>
+<rect width="3" height="3" transform="translate(61 25)" fill="white"/>
+<rect width="3" height="3" transform="translate(64 25)" fill="black"/>
+<rect width="3" height="3" transform="translate(67 25)" fill="white"/>
+<rect width="3" height="3" transform="translate(70 25)" fill="black"/>
+<rect width="3" height="3" transform="translate(73 25)" fill="white"/>
+<rect width="3" height="3" transform="translate(40 28)" fill="white"/>
+<rect width="3" height="3" transform="translate(43 28)" fill="black"/>
+<rect width="3" height="3" transform="translate(46 28)" fill="white"/>
+<rect width="3" height="3" transform="translate(49 28)" fill="black"/>
+<rect width="3" height="3" transform="translate(52 28)" fill="white"/>
+<rect width="3" height="3" transform="translate(55 28)" fill="black"/>
+<rect width="3" height="3" transform="translate(58 28)" fill="white"/>
+<rect width="3" height="3" transform="translate(61 28)" fill="black"/>
+<rect width="3" height="3" transform="translate(64 28)" fill="white"/>
+<rect width="3" height="3" transform="translate(67 28)" fill="black"/>
+<rect width="3" height="3" transform="translate(70 28)" fill="white"/>
+<rect width="3" height="3" transform="translate(73 28)" fill="black"/>
+</g>
+<rect width="1" height="80" transform="translate(35)" fill="#707070"/>
+<rect x="10" y="26" width="110" height="54" rx="4" fill="#FAEEDE"/>
+<g clip-path="url(#clip3_804_15)">
+<rect x="15" y="33" width="20" height="4" rx="2" fill="#707070"/>
+<rect x="15" y="40" width="17" height="4" rx="2" fill="#707070"/>
+<rect x="15" y="47" width="22" height="4" rx="2" fill="#707070"/>
+</g>
+<g clip-path="url(#clip4_804_15)">
+<rect x="51" y="33" width="20" height="4" rx="2" fill="#707070"/>
+<rect x="51" y="40" width="17" height="4" rx="2" fill="#707070"/>
+<rect x="51" y="47" width="22" height="4" rx="2" fill="#707070"/>
+</g>
+<g clip-path="url(#clip5_804_15)">
+<rect width="1" height="54" transform="translate(45 26)" fill="#F2A43A"/>
+</g>
+<circle cx="105" cy="41" r="7.25" stroke="#F2A43A" stroke-width="1.5"/>
+<rect width="74" height="14" transform="translate(46 66)" fill="white"/>
+<rect x="1.5" y="1.5" width="117" height="77" rx="2.5" stroke="black" stroke-opacity="0.08" stroke-width="3"/>
+<defs>
+<clipPath id="clip0_804_15">
+<rect width="22" height="18" fill="white" transform="translate(5 7)"/>
+</clipPath>
+<clipPath id="clip1_804_15">
+<rect width="22" height="18" fill="white" transform="translate(81 7)"/>
+</clipPath>
+<clipPath id="clip2_804_15">
+<rect width="36" height="24" fill="white" transform="translate(40 7)"/>
+</clipPath>
+<clipPath id="clip3_804_15">
+<rect width="22" height="18" fill="white" transform="translate(15 33)"/>
+</clipPath>
+<clipPath id="clip4_804_15">
+<rect width="22" height="18" fill="white" transform="translate(51 33)"/>
+</clipPath>
+<clipPath id="clip5_804_15">
+<rect width="1" height="54" fill="white" transform="translate(45 26)"/>
+</clipPath>
+</defs>
 </svg>
