@@ -1,29 +1,48 @@
-#!/bin/sh
+#!/bin/bash
 
 DIR=$(dirname "$0")
 output=$(cat $DIR/TEMPLATE.md)
 
-markup=""
-for file in $(find $DIR/../assets/logos/ -name "*.svg" | sed 's/\.svg$//' | sort); do
-  name="$(basename $file).svg"
-  markup="${markup}| ![${name}](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/${name}?sanitize=true) | assets/logos/${name} |\n"
-done
+generate_table_markup() {
+  local asset_dir=$1
+  local section_marker=$2
 
-output=${output/"<!-- LOGOS -->"/"$markup"}
+  local markup=""
 
-markup=""
-for file in $(find $DIR/../assets/secure-logos/ -name "*.svg" | sed 's/\.svg$//' | sort); do
-  name="$(basename $file).svg"
-  markup="${markup}| ![${name}](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/secure-logos/${name}?sanitize=true) | assets/secure-logos/${name} |\n"
-done
+  # Process special cards first
+  if [ "$asset_dir" == "cards" ]; then
+    special_cards=("mastercard" "visa" "american-express")
 
-output=${output/"<!-- SECURE_LOGOS -->"/"$markup"}
+    for card in "${special_cards[@]}"; do
+      file="$DIR/../assets/$asset_dir/$card.svg"
+      if [ -f "$file" ]; then
+        image_url="https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/$asset_dir/$card.svg?sanitize=true"
+        #image_url="assets/$asset_dir/$card.svg"
+        asset_path="assets/$asset_dir/$card.svg"
+        markup+="| ![$card]($image_url) | $asset_path |\n"
+      fi
+    done
+  fi
 
-markup=""
-for file in $(find $DIR/../assets/banners/ -name "*.svg" | sed 's/\.svg$//' | sort); do
-  name="$(basename $file).svg"
-  markup="${markup}| ![${name}](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/${name}?sanitize=true) | assets/banners/${name} |\n"
-done
-output=${output/"<!-- BANNERS -->"/"$markup"}
+  # Process remaining logos
+  find "$DIR/../assets/$asset_dir" -name "*.svg" -not -name "mastercard.svg" -not -name "visa.svg" -not -name "american-express.svg" -print0 | sort -z > "$DIR/temp_files.txt"
+  while IFS= read -r -d '' file; do
+    name="$(basename "${file%.svg}")"
+    image_url="https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/$asset_dir/$name.svg?sanitize=true"
+    #image_url="assets/$asset_dir/$name.svg"
+    asset_path="assets/$asset_dir/$name.svg"
+
+    markup+="| ![$name]($image_url) | $asset_path |\n"
+  done < "$DIR/temp_files.txt"
+  rm "$DIR/temp_files.txt"
+
+  output=${output/"$section_marker"/"$markup"}
+}
+
+generate_table_markup "cards" "<!-- CARDS -->"
+generate_table_markup "wallets" "<!-- WALLETS -->"
+generate_table_markup "generic" "<!-- GENERIC -->"
+generate_table_markup "apm" "<!-- APM -->"
 
 echo "$output" > "$DIR/../README.md"
+sed '$d' "$DIR/../README.md" > temp && mv temp "$DIR/../README.md"
