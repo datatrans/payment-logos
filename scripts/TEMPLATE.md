@@ -1,26 +1,35 @@
-# Datatrans Payment Logos
+# Payment Logos 💳 ✨
 
-Use the following assets when integrating Datatrans payment solutions to your
-website.
+Welcome to the ultimate payment method logos repo! 🎉 We curated an extensive collection of logos and icons representing debit and credit card schemes, wallets, and alternative payment methods.
 
-- [Logos](#logos)
-- [Secure Logos](#secure-logos)
-- [Datatrans Banners](#datatrans-banners)
+While this repo holds the icons we use across our solutions, you may use them to enhance your projects too!
 
-## Logos
+Shortcuts to individual sections:
 
-| Asset | Path |
-| ----- | ---- |
-<!-- LOGOS -->
+- [Debit & credit cards](#debit--credit-cards)
+- [Wallets](#wallets)
+- [Generic logos](#generic-logos)
+- [Alternative payment methods](#alternative-payment-methods)
 
-## Secure Logos
+👀 Missing a logo? Open an issue and we will make sure to add it in a future release!
 
-| Asset | Path |
-| ----- | ---- |
-<!-- SECURE_LOGOS -->
-
-## Datatrans Banners
+## Debit & credit cards
 
 | Asset | Path |
 | ----- | ---- |
-<!-- BANNERS -->
+<!-- CARDS -->
+## Wallets
+
+| Asset | Path |
+| ----- | ---- |
+<!-- WALLETS -->
+## Generic logos
+
+| Asset | Path |
+| ----- | ---- |
+<!-- GENERIC -->
+## Alternative payment methods
+
+| Asset | Path |
+| ----- | ---- |
+<!-- APM -->

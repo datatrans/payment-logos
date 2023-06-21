@@ -1,104 +1,97 @@
-# Datatrans Payment Logos
+# Payment Logos 💳 ✨
 
-Use the following assets when integrating Datatrans payment solutions to your
-website.
+Welcome to the ultimate payment method logos repo! 🎉 We curated an extensive collection of logos and icons representing debit and credit card schemes, wallets, and alternative payment methods.
 
-- [Logos](#logos)
-- [Secure Logos](#secure-logos)
-- [Datatrans Banners](#datatrans-banners)
+While this repo holds the icons we use across our solutions, you may use them to enhance your projects too!
 
-## Logos
+Shortcuts to individual sections:
 
-| Asset | Path |
-| ----- | ---- |
-| ![alipay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/alipay.svg?sanitize=true) | assets/logos/alipay.svg |
-| ![alipay-plus.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/alipay-plus.svg?sanitize=true) | assets/logos/alipay-plus.svg |
-| ![amazon-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/amazon-pay.svg?sanitize=true) | assets/logos/amazon-pay.svg |
-| ![american-express.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/american-express.svg?sanitize=true) | assets/logos/american-express.svg |
-| ![apple-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/apple-pay.svg?sanitize=true) | assets/logos/apple-pay.svg |
-| ![availabill.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/availabill.svg?sanitize=true) | assets/logos/availabill.svg |
-| ![bancontact.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/bancontact.svg?sanitize=true) | assets/logos/bancontact.svg |
-| ![billpay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/billpay.svg?sanitize=true) | assets/logos/billpay.svg |
-| ![boncard.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/boncard.svg?sanitize=true) | assets/logos/boncard.svg |
-| ![bonus-card.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/bonus-card.svg?sanitize=true) | assets/logos/bonus-card.svg |
-| ![butterfly-card.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/butterfly-card.svg?sanitize=true) | assets/logos/butterfly-card.svg |
-| ![byjuno.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/byjuno.svg?sanitize=true) | assets/logos/byjuno.svg |
-| ![card-generic.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/card-generic.svg?sanitize=true) | assets/logos/card-generic.svg |
-| ![card-generic-alt.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/card-generic-alt.svg?sanitize=true) | assets/logos/card-generic-alt.svg |
-| ![card-generic-gold.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/card-generic-gold.svg?sanitize=true) | assets/logos/card-generic-gold.svg |
-| ![cartes-bancaires.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/cartes-bancaires.svg?sanitize=true) | assets/logos/cartes-bancaires.svg |
-| ![crif.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/crif.svg?sanitize=true) | assets/logos/crif.svg |
-| ![crypto.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/crypto.svg?sanitize=true) | assets/logos/crypto.svg |
-| ![dankort.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/dankort.svg?sanitize=true) | assets/logos/dankort.svg |
-| ![diners-club.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/diners-club.svg?sanitize=true) | assets/logos/diners-club.svg |
-| ![discover.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/discover.svg?sanitize=true) | assets/logos/discover.svg |
-| ![elo.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/elo.svg?sanitize=true) | assets/logos/elo.svg |
-| ![elv.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/elv.svg?sanitize=true) | assets/logos/elv.svg |
-| ![eps.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/eps.svg?sanitize=true) | assets/logos/eps.svg |
-| ![gift-card-generic.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/gift-card-generic.svg?sanitize=true) | assets/logos/gift-card-generic.svg |
-| ![gift-card-generic-alt.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/gift-card-generic-alt.svg?sanitize=true) | assets/logos/gift-card-generic-alt.svg |
-| ![gift-card-generic-gold.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/gift-card-generic-gold.svg?sanitize=true) | assets/logos/gift-card-generic-gold.svg |
-| ![giropay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/giropay.svg?sanitize=true) | assets/logos/giropay.svg |
-| ![google-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/google-pay.svg?sanitize=true) | assets/logos/google-pay.svg |
-| ![hipercard.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/hipercard.svg?sanitize=true) | assets/logos/hipercard.svg |
-| ![ideal.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/ideal.svg?sanitize=true) | assets/logos/ideal.svg |
-| ![invoice.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/invoice.svg?sanitize=true) | assets/logos/invoice.svg |
-| ![jcb.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/jcb.svg?sanitize=true) | assets/logos/jcb.svg |
-| ![klarna.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/klarna.svg?sanitize=true) | assets/logos/klarna.svg |
-| ![lunch-check.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/lunch-check.svg?sanitize=true) | assets/logos/lunch-check.svg |
-| ![maestro.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/maestro.svg?sanitize=true) | assets/logos/maestro.svg |
-| ![maestro-alt.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/maestro-alt.svg?sanitize=true) | assets/logos/maestro-alt.svg |
-| ![mastercard.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/mastercard.svg?sanitize=true) | assets/logos/mastercard.svg |
-| ![mastercard-alt.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/mastercard-alt.svg?sanitize=true) | assets/logos/mastercard-alt.svg |
-| ![mediamarkt.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/mediamarkt.svg?sanitize=true) | assets/logos/mediamarkt.svg |
-| ![migros-bank.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/migros-bank.svg?sanitize=true) | assets/logos/migros-bank.svg |
-| ![migros-giftcard.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/migros-giftcard.svg?sanitize=true) | assets/logos/migros-giftcard.svg |
-| ![mobilepay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/mobilepay.svg?sanitize=true) | assets/logos/mobilepay.svg |
-| ![paypal.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/paypal.svg?sanitize=true) | assets/logos/paypal.svg |
-| ![paysafecard.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/paysafecard.svg?sanitize=true) | assets/logos/paysafecard.svg |
-| ![pointspay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/pointspay.svg?sanitize=true) | assets/logos/pointspay.svg |
-| ![postfinance-card.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/postfinance-card.svg?sanitize=true) | assets/logos/postfinance-card.svg |
-| ![postfinance-efinance.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/postfinance-efinance.svg?sanitize=true) | assets/logos/postfinance-efinance.svg |
-| ![powerpay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/powerpay.svg?sanitize=true) | assets/logos/powerpay.svg |
-| ![reka.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/reka.svg?sanitize=true) | assets/logos/reka.svg |
-| ![samsung-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/samsung-pay.svg?sanitize=true) | assets/logos/samsung-pay.svg |
-| ![skrill.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/skrill.svg?sanitize=true) | assets/logos/skrill.svg |
-| ![swish.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/swish.svg?sanitize=true) | assets/logos/swish.svg |
-| ![swissbilling.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/swissbilling.svg?sanitize=true) | assets/logos/swissbilling.svg |
-| ![swisscom-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/swisscom-pay.svg?sanitize=true) | assets/logos/swisscom-pay.svg |
-| ![swisspass.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/swisspass.svg?sanitize=true) | assets/logos/swisspass.svg |
-| ![twint.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/twint.svg?sanitize=true) | assets/logos/twint.svg |
-| ![uatp.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/uatp.svg?sanitize=true) | assets/logos/uatp.svg |
-| ![unionpay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/unionpay.svg?sanitize=true) | assets/logos/unionpay.svg |
-| ![vipps.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/vipps.svg?sanitize=true) | assets/logos/vipps.svg |
-| ![visa.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/visa.svg?sanitize=true) | assets/logos/visa.svg |
-| ![vpay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/vpay.svg?sanitize=true) | assets/logos/vpay.svg |
-| ![wechat-pay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/logos/wechat-pay.svg?sanitize=true) | assets/logos/wechat-pay.svg |
+- [Debit & credit cards](#debit--credit-cards)
+- [Wallets](#wallets)
+- [Generic logos](#generic-logos)
+- [Alternative payment methods](#alternative-payment-methods)
 
+👀 Missing a logo? Open an issue and we will make sure to add it in a future release!
 
-## Secure Logos
+## Debit & credit cards
 
 | Asset | Path |
 | ----- | ---- |
-| ![amex-safekey.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/secure-logos/amex-safekey.svg?sanitize=true) | assets/secure-logos/amex-safekey.svg |
-| ![diners-protectbuy.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/secure-logos/diners-protectbuy.svg?sanitize=true) | assets/secure-logos/diners-protectbuy.svg |
-| ![discover-protectbuy.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/secure-logos/discover-protectbuy.svg?sanitize=true) | assets/secure-logos/discover-protectbuy.svg |
-| ![mastercard-idcheck.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/secure-logos/mastercard-idcheck.svg?sanitize=true) | assets/secure-logos/mastercard-idcheck.svg |
-| ![visa-secure.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/secure-logos/visa-secure.svg?sanitize=true) | assets/secure-logos/visa-secure.svg |
+| ![mastercard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/mastercard.svg?sanitize=true) | assets/cards/mastercard.svg |
+| ![visa](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/visa.svg?sanitize=true) | assets/cards/visa.svg |
+| ![american-express](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/american-express.svg?sanitize=true) | assets/cards/american-express.svg |
+| ![cartes-bancaires](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/cartes-bancaires.svg?sanitize=true) | assets/cards/cartes-bancaires.svg |
+| ![dankort](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/dankort.svg?sanitize=true) | assets/cards/dankort.svg |
+| ![diners](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/diners.svg?sanitize=true) | assets/cards/diners.svg |
+| ![discover](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/discover.svg?sanitize=true) | assets/cards/discover.svg |
+| ![elo](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/elo.svg?sanitize=true) | assets/cards/elo.svg |
+| ![hipercard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/hipercard.svg?sanitize=true) | assets/cards/hipercard.svg |
+| ![jcb](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/jcb.svg?sanitize=true) | assets/cards/jcb.svg |
+| ![maestro-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/maestro-alt.svg?sanitize=true) | assets/cards/maestro-alt.svg |
+| ![maestro](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/maestro.svg?sanitize=true) | assets/cards/maestro.svg |
+| ![mastercard-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/mastercard-alt.svg?sanitize=true) | assets/cards/mastercard-alt.svg |
+| ![uatp](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/uatp.svg?sanitize=true) | assets/cards/uatp.svg |
+| ![unionpay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/unionpay.svg?sanitize=true) | assets/cards/unionpay.svg |
+| ![vpay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/vpay.svg?sanitize=true) | assets/cards/vpay.svg |
 
-
-## Datatrans Banners
+## Wallets
 
 | Asset | Path |
 | ----- | ---- |
-| ![datatrans.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/datatrans.svg?sanitize=true) | assets/banners/datatrans.svg |
-| ![datatrans-certified.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/datatrans-certified.svg?sanitize=true) | assets/banners/datatrans-certified.svg |
-| ![visa-mastercard.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/visa-mastercard.svg?sanitize=true) | assets/banners/visa-mastercard.svg |
-| ![visa-mastercard-certified.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/visa-mastercard-certified.svg?sanitize=true) | assets/banners/visa-mastercard-certified.svg |
-| ![visa-mastercard-horizontal.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/visa-mastercard-horizontal.svg?sanitize=true) | assets/banners/visa-mastercard-horizontal.svg |
-| ![visa-mastercard-horizontal-certified.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/visa-mastercard-horizontal-certified.svg?sanitize=true) | assets/banners/visa-mastercard-horizontal-certified.svg |
-| ![visa-mastercard-paypal-applepay.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/visa-mastercard-paypal-applepay.svg?sanitize=true) | assets/banners/visa-mastercard-paypal-applepay.svg |
-| ![visa-mastercard-paypal-applepay-certified.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/visa-mastercard-paypal-applepay-certified.svg?sanitize=true) | assets/banners/visa-mastercard-paypal-applepay-certified.svg |
-| ![visa-mastercard-paypal-applepay-horizontal.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/visa-mastercard-paypal-applepay-horizontal.svg?sanitize=true) | assets/banners/visa-mastercard-paypal-applepay-horizontal.svg |
-| ![visa-mastercard-paypal-applepay-horizontal-certified.svg](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/banners/visa-mastercard-paypal-applepay-horizontal-certified.svg?sanitize=true) | assets/banners/visa-mastercard-paypal-applepay-horizontal-certified.svg |
+| ![apple-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/wallets/apple-pay.svg?sanitize=true) | assets/wallets/apple-pay.svg |
+| ![google-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/wallets/google-pay.svg?sanitize=true) | assets/wallets/google-pay.svg |
 
+## Generic logos
+
+| Asset | Path |
+| ----- | ---- |
+| ![card-generic-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/generic/card-generic-alt.svg?sanitize=true) | assets/generic/card-generic-alt.svg |
+| ![card-generic-gold](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/generic/card-generic-gold.svg?sanitize=true) | assets/generic/card-generic-gold.svg |
+| ![card-generic](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/generic/card-generic.svg?sanitize=true) | assets/generic/card-generic.svg |
+| ![gift-card-generic-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/generic/gift-card-generic-alt.svg?sanitize=true) | assets/generic/gift-card-generic-alt.svg |
+| ![gift-card-generic-gold](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/generic/gift-card-generic-gold.svg?sanitize=true) | assets/generic/gift-card-generic-gold.svg |
+| ![gift-card-generic](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/generic/gift-card-generic.svg?sanitize=true) | assets/generic/gift-card-generic.svg |
+| ![invoice](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/generic/invoice.svg?sanitize=true) | assets/generic/invoice.svg |
+
+## Alternative payment methods
+
+| Asset | Path |
+| ----- | ---- |
+| ![alipay-plus](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/alipay-plus.svg?sanitize=true) | assets/apm/alipay-plus.svg |
+| ![alipay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/alipay.svg?sanitize=true) | assets/apm/alipay.svg |
+| ![amazon-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/amazon-pay.svg?sanitize=true) | assets/apm/amazon-pay.svg |
+| ![availabill](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/availabill.svg?sanitize=true) | assets/apm/availabill.svg |
+| ![bancontact](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/bancontact.svg?sanitize=true) | assets/apm/bancontact.svg |
+| ![billpay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/billpay.svg?sanitize=true) | assets/apm/billpay.svg |
+| ![boncard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/boncard.svg?sanitize=true) | assets/apm/boncard.svg |
+| ![bonus-card](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/bonus-card.svg?sanitize=true) | assets/apm/bonus-card.svg |
+| ![butterfly-card](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/butterfly-card.svg?sanitize=true) | assets/apm/butterfly-card.svg |
+| ![byjuno](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/byjuno.svg?sanitize=true) | assets/apm/byjuno.svg |
+| ![crif](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/crif.svg?sanitize=true) | assets/apm/crif.svg |
+| ![crypto](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/crypto.svg?sanitize=true) | assets/apm/crypto.svg |
+| ![eps](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/eps.svg?sanitize=true) | assets/apm/eps.svg |
+| ![giropay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/giropay.svg?sanitize=true) | assets/apm/giropay.svg |
+| ![ideal](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/ideal.svg?sanitize=true) | assets/apm/ideal.svg |
+| ![klarna](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/klarna.svg?sanitize=true) | assets/apm/klarna.svg |
+| ![lunch-check](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/lunch-check.svg?sanitize=true) | assets/apm/lunch-check.svg |
+| ![mediamarkt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/mediamarkt.svg?sanitize=true) | assets/apm/mediamarkt.svg |
+| ![migros-bank](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/migros-bank.svg?sanitize=true) | assets/apm/migros-bank.svg |
+| ![migros-giftcard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/migros-giftcard.svg?sanitize=true) | assets/apm/migros-giftcard.svg |
+| ![mobilepay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/mobilepay.svg?sanitize=true) | assets/apm/mobilepay.svg |
+| ![paypal](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/paypal.svg?sanitize=true) | assets/apm/paypal.svg |
+| ![paysafecard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/paysafecard.svg?sanitize=true) | assets/apm/paysafecard.svg |
+| ![pointspay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/pointspay.svg?sanitize=true) | assets/apm/pointspay.svg |
+| ![postfinance-card](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/postfinance-card.svg?sanitize=true) | assets/apm/postfinance-card.svg |
+| ![postfinance-efinance](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/postfinance-efinance.svg?sanitize=true) | assets/apm/postfinance-efinance.svg |
+| ![powerpay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/powerpay.svg?sanitize=true) | assets/apm/powerpay.svg |
+| ![reka](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/reka.svg?sanitize=true) | assets/apm/reka.svg |
+| ![samsung-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/samsung-pay.svg?sanitize=true) | assets/apm/samsung-pay.svg |
+| ![sepa](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/sepa.svg?sanitize=true) | assets/apm/sepa.svg |
+| ![skrill](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/skrill.svg?sanitize=true) | assets/apm/skrill.svg |
+| ![swish](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/swish.svg?sanitize=true) | assets/apm/swish.svg |
+| ![swissbilling](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/swissbilling.svg?sanitize=true) | assets/apm/swissbilling.svg |
+| ![swisscom-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/swisscom-pay.svg?sanitize=true) | assets/apm/swisscom-pay.svg |
+| ![swisspass](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/swisspass.svg?sanitize=true) | assets/apm/swisspass.svg |
+| ![twint](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/twint.svg?sanitize=true) | assets/apm/twint.svg |
+| ![vipps](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/vipps.svg?sanitize=true) | assets/apm/vipps.svg |
+| ![wechat-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/wechat-pay.svg?sanitize=true) | assets/apm/wechat-pay.svg |
