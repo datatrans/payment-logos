@@ -1,0 +1,6 @@
+{
+  "name": "payment-logos",
+  "version": "1.0.0",
+  "description": "Welcome to the ultimate payment method logos repo! 🎉 We curated an extensive collection of logos and icons representing debit and credit card schemes, wallets, and alternative payment methods.",
+  "files": ["react/index.ts"]
+}
