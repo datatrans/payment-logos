@@ -66,7 +66,7 @@ Shortcuts to individual sections:
 | ![boncard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/boncard.svg?sanitize=true) | assets/apm/boncard.svg |
 | ![bonus-card](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/bonus-card.svg?sanitize=true) | assets/apm/bonus-card.svg |
 | ![butterfly-card](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/butterfly-card.svg?sanitize=true) | assets/apm/butterfly-card.svg |
-| ![byjuno](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/byjuno.svg?sanitize=true) | assets/apm/byjuno.svg |
+| ![cembrapay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/cembrapay.svg?sanitize=true) | assets/apm/cembrapay.svg |
 | ![crif](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/crif.svg?sanitize=true) | assets/apm/crif.svg |
 | ![crypto](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/crypto.svg?sanitize=true) | assets/apm/crypto.svg |
 | ![eps](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/eps.svg?sanitize=true) | assets/apm/eps.svg |
