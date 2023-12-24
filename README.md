@@ -95,3 +95,4 @@ Shortcuts to individual sections:
 | ![twint](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/twint.svg?sanitize=true) | assets/apm/twint.svg |
 | ![vipps](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/vipps.svg?sanitize=true) | assets/apm/vipps.svg |
 | ![wechat-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/wechat-pay.svg?sanitize=true) | assets/apm/wechat-pay.svg |
+| ![razor-pay](https://raw.githubusercontent.com/ft10101/payment-logos/master/assets/apm/razor-pay.svg) | assets/apm/razor-pay.svg |
