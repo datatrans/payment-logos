@@ -75,7 +75,6 @@ Shortcuts to individual sections:
 | ![klarna](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/klarna.svg?sanitize=true) | assets/apm/klarna.svg |
 | ![lunch-check](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/lunch-check.svg?sanitize=true) | assets/apm/lunch-check.svg |
 | ![mediamarkt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/mediamarkt.svg?sanitize=true) | assets/apm/mediamarkt.svg |
-| ![migros-bank](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/migros-bank.svg?sanitize=true) | assets/apm/migros-bank.svg |
 | ![migros-giftcard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/migros-giftcard.svg?sanitize=true) | assets/apm/migros-giftcard.svg |
 | ![mobilepay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/mobilepay.svg?sanitize=true) | assets/apm/mobilepay.svg |
 | ![paypal](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/paypal.svg?sanitize=true) | assets/apm/paypal.svg |
