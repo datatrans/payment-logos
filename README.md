@@ -62,13 +62,14 @@ Shortcuts to individual sections:
 | ![amazon-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/amazon-pay.svg?sanitize=true) | assets/apm/amazon-pay.svg |
 | ![availabill](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/availabill.svg?sanitize=true) | assets/apm/availabill.svg |
 | ![bancontact](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/bancontact.svg?sanitize=true) | assets/apm/bancontact.svg |
-| ![billpay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/billpay.svg?sanitize=true) | assets/apm/billpay.svg |
+| ![blik](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/blik.svg?sanitize=true) | assets/apm/blik.svg |
 | ![boncard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/boncard.svg?sanitize=true) | assets/apm/boncard.svg |
 | ![bonus-card](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/bonus-card.svg?sanitize=true) | assets/apm/bonus-card.svg |
 | ![butterfly-card](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/butterfly-card.svg?sanitize=true) | assets/apm/butterfly-card.svg |
 | ![cembrapay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/cembrapay.svg?sanitize=true) | assets/apm/cembrapay.svg |
 | ![crif](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/crif.svg?sanitize=true) | assets/apm/crif.svg |
 | ![crypto](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/crypto.svg?sanitize=true) | assets/apm/crypto.svg |
+| ![ebill](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/ebill.svg?sanitize=true) | assets/apm/ebill.svg |
 | ![eps](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/eps.svg?sanitize=true) | assets/apm/eps.svg |
 | ![giropay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/giropay.svg?sanitize=true) | assets/apm/giropay.svg |
 | ![half-fare-plus](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/half-fare-plus.svg?sanitize=true) | assets/apm/half-fare-plus.svg |
@@ -84,7 +85,9 @@ Shortcuts to individual sections:
 | ![pointspay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/pointspay.svg?sanitize=true) | assets/apm/pointspay.svg |
 | ![postfinance-card](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/postfinance-card.svg?sanitize=true) | assets/apm/postfinance-card.svg |
 | ![postfinance-efinance](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/postfinance-efinance.svg?sanitize=true) | assets/apm/postfinance-efinance.svg |
+| ![postfinance-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/postfinance-pay.svg?sanitize=true) | assets/apm/postfinance-pay.svg |
 | ![powerpay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/powerpay.svg?sanitize=true) | assets/apm/powerpay.svg |
+| ![przelewy24](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/przelewy24.svg?sanitize=true) | assets/apm/przelewy24.svg |
 | ![reka](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/reka.svg?sanitize=true) | assets/apm/reka.svg |
 | ![samsung-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/samsung-pay.svg?sanitize=true) | assets/apm/samsung-pay.svg |
 | ![sepa](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/sepa.svg?sanitize=true) | assets/apm/sepa.svg |
