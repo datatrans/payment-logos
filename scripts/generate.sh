@@ -2,6 +2,7 @@
 
 DIR=$(dirname "$0")
 output=$(cat $DIR/TEMPLATE.md)
+NEWLINE=$'\n'
 
 generate_table_markup() {
   local asset_dir=$1
@@ -11,7 +12,7 @@ generate_table_markup() {
 
   # Process special cards first
   if [ "$asset_dir" == "cards" ]; then
-    special_cards=("mastercard" "visa" "american-express")
+    special_cards=("mastercard" "visa" "visa-alt" "american-express")
 
     for card in "${special_cards[@]}"; do
       file="$DIR/../assets/$asset_dir/$card.svg"
@@ -19,20 +20,20 @@ generate_table_markup() {
         image_url="https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/$asset_dir/$card.svg?sanitize=true"
         #image_url="assets/$asset_dir/$card.svg"
         asset_path="assets/$asset_dir/$card.svg"
-        markup+="| ![$card]($image_url) | $asset_path |\n"
+        markup+="| ![$card]($image_url) | $asset_path |$NEWLINE"
       fi
     done
   fi
 
   # Process remaining logos
-  find "$DIR/../assets/$asset_dir" -name "*.svg" -not -name "mastercard.svg" -not -name "visa.svg" -not -name "american-express.svg" -print0 | sort -z > "$DIR/temp_files.txt"
+  find "$DIR/../assets/$asset_dir" -name "*.svg" -not -name "mastercard.svg" -not -name "visa.svg" -not -name "visa-alt.svg" -not -name "american-express.svg" -print0 | sort -z > "$DIR/temp_files.txt"
   while IFS= read -r -d '' file; do
     name="$(basename "${file%.svg}")"
     image_url="https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/$asset_dir/$name.svg?sanitize=true"
     #image_url="assets/$asset_dir/$name.svg"
     asset_path="assets/$asset_dir/$name.svg"
 
-    markup+="| ![$name]($image_url) | $asset_path |\n"
+    markup+="| ![$name]($image_url) | $asset_path |$NEWLINE"
   done < "$DIR/temp_files.txt"
   rm "$DIR/temp_files.txt"
 

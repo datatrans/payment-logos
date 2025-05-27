@@ -19,6 +19,7 @@ Shortcuts to individual sections:
 | ----- | ---- |
 | ![mastercard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/mastercard.svg?sanitize=true) | assets/cards/mastercard.svg |
 | ![visa](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/visa.svg?sanitize=true) | assets/cards/visa.svg |
+| ![visa-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/visa-alt.svg?sanitize=true) | assets/cards/visa-alt.svg |
 | ![american-express](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/american-express.svg?sanitize=true) | assets/cards/american-express.svg |
 | ![cartes-bancaires](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/cartes-bancaires.svg?sanitize=true) | assets/cards/cartes-bancaires.svg |
 | ![dankort](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/dankort.svg?sanitize=true) | assets/cards/dankort.svg |
@@ -32,7 +33,6 @@ Shortcuts to individual sections:
 | ![mastercard-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/mastercard-alt.svg?sanitize=true) | assets/cards/mastercard-alt.svg |
 | ![uatp](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/uatp.svg?sanitize=true) | assets/cards/uatp.svg |
 | ![unionpay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/unionpay.svg?sanitize=true) | assets/cards/unionpay.svg |
-| ![visa-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/visa-alt.svg?sanitize=true) | assets/cards/visa-alt.svg |
 | ![vpay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/vpay.svg?sanitize=true) | assets/cards/vpay.svg |
 
 ## Wallets
