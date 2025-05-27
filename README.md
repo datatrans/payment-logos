@@ -32,6 +32,7 @@ Shortcuts to individual sections:
 | ![mastercard-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/mastercard-alt.svg?sanitize=true) | assets/cards/mastercard-alt.svg |
 | ![uatp](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/uatp.svg?sanitize=true) | assets/cards/uatp.svg |
 | ![unionpay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/unionpay.svg?sanitize=true) | assets/cards/unionpay.svg |
+| ![visa-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/visa-alt.svg?sanitize=true) | assets/cards/visa-alt.svg |
 | ![vpay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/vpay.svg?sanitize=true) | assets/cards/vpay.svg |
 
 ## Wallets
@@ -39,6 +40,7 @@ Shortcuts to individual sections:
 | Asset | Path |
 | ----- | ---- |
 | ![apple-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/wallets/apple-pay.svg?sanitize=true) | assets/wallets/apple-pay.svg |
+| ![google-pay-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/wallets/google-pay-alt.svg?sanitize=true) | assets/wallets/google-pay-alt.svg |
 | ![google-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/wallets/google-pay.svg?sanitize=true) | assets/wallets/google-pay.svg |
 
 ## Generic logos
