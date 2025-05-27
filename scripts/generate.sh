@@ -2,6 +2,7 @@
 
 DIR=$(dirname "$0")
 output=$(cat $DIR/TEMPLATE.md)
+NEWLINE=$'\n'
 
 generate_table_markup() {
   local asset_dir=$1
@@ -19,7 +20,7 @@ generate_table_markup() {
         image_url="https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/$asset_dir/$card.svg?sanitize=true"
         #image_url="assets/$asset_dir/$card.svg"
         asset_path="assets/$asset_dir/$card.svg"
-        markup+="| ![$card]($image_url) | $asset_path |\n"
+        markup+="| ![$card]($image_url) | $asset_path |$NEWLINE"
       fi
     done
   fi
@@ -32,7 +33,7 @@ generate_table_markup() {
     #image_url="assets/$asset_dir/$name.svg"
     asset_path="assets/$asset_dir/$name.svg"
 
-    markup+="| ![$name]($image_url) | $asset_path |\n"
+    markup+="| ![$name]($image_url) | $asset_path |$NEWLINE"
   done < "$DIR/temp_files.txt"
   rm "$DIR/temp_files.txt"
 
