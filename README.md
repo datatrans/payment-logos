@@ -75,6 +75,7 @@ Shortcuts to individual sections:
 | ![eps](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/eps.svg?sanitize=true) | assets/apm/eps.svg |
 | ![giropay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/giropay.svg?sanitize=true) | assets/apm/giropay.svg |
 | ![half-fare-plus](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/half-fare-plus.svg?sanitize=true) | assets/apm/half-fare-plus.svg |
+| ![ideal-wero](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/ideal-wero.svg?sanitize=true) | assets/apm/ideal-wero.svg |
 | ![ideal](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/ideal.svg?sanitize=true) | assets/apm/ideal.svg |
 | ![klarna](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/klarna.svg?sanitize=true) | assets/apm/klarna.svg |
 | ![lunch-check](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/lunch-check.svg?sanitize=true) | assets/apm/lunch-check.svg |
@@ -101,3 +102,4 @@ Shortcuts to individual sections:
 | ![twint](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/twint.svg?sanitize=true) | assets/apm/twint.svg |
 | ![vipps](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/vipps.svg?sanitize=true) | assets/apm/vipps.svg |
 | ![wechat-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/wechat-pay.svg?sanitize=true) | assets/apm/wechat-pay.svg |
+| ![wero](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/wero.svg?sanitize=true) | assets/apm/wero.svg |
