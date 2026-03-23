@@ -83,6 +83,7 @@ Shortcuts to individual sections:
 | ![migros-giftcard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/migros-giftcard.svg?sanitize=true) | assets/apm/migros-giftcard.svg |
 | ![mobilepay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/mobilepay.svg?sanitize=true) | assets/apm/mobilepay.svg |
 | ![paycard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/paycard.svg?sanitize=true) | assets/apm/paycard.svg |
+| ![paypal-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/paypal-alt.svg?sanitize=true) | assets/apm/paypal-alt.svg |
 | ![paypal](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/paypal.svg?sanitize=true) | assets/apm/paypal.svg |
 | ![paysafecard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/paysafecard.svg?sanitize=true) | assets/apm/paysafecard.svg |
 | ![pointspay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/pointspay.svg?sanitize=true) | assets/apm/pointspay.svg |
