@@ -79,13 +79,16 @@ Shortcuts to individual sections:
 | ![ideal](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/ideal.svg?sanitize=true) | assets/apm/ideal.svg |
 | ![klarna](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/klarna.svg?sanitize=true) | assets/apm/klarna.svg |
 | ![lunch-check](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/lunch-check.svg?sanitize=true) | assets/apm/lunch-check.svg |
+| ![mb-way](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/mb-way.svg?sanitize=true) | assets/apm/mb-way.svg |
 | ![mediamarkt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/mediamarkt.svg?sanitize=true) | assets/apm/mediamarkt.svg |
 | ![migros-giftcard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/migros-giftcard.svg?sanitize=true) | assets/apm/migros-giftcard.svg |
 | ![mobilepay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/mobilepay.svg?sanitize=true) | assets/apm/mobilepay.svg |
+| ![naver-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/naver-pay.svg?sanitize=true) | assets/apm/naver-pay.svg |
 | ![paycard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/paycard.svg?sanitize=true) | assets/apm/paycard.svg |
 | ![paypal-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/paypal-alt.svg?sanitize=true) | assets/apm/paypal-alt.svg |
 | ![paypal](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/paypal.svg?sanitize=true) | assets/apm/paypal.svg |
 | ![paysafecard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/paysafecard.svg?sanitize=true) | assets/apm/paysafecard.svg |
+| ![pix](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/pix.svg?sanitize=true) | assets/apm/pix.svg |
 | ![pointspay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/pointspay.svg?sanitize=true) | assets/apm/pointspay.svg |
 | ![postfinance-card](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/postfinance-card.svg?sanitize=true) | assets/apm/postfinance-card.svg |
 | ![postfinance-efinance](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/postfinance-efinance.svg?sanitize=true) | assets/apm/postfinance-efinance.svg |
