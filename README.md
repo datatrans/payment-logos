@@ -97,7 +97,6 @@ Shortcuts to individual sections:
 | ![sepa](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/sepa.svg?sanitize=true) | assets/apm/sepa.svg |
 | ![skrill](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/skrill.svg?sanitize=true) | assets/apm/skrill.svg |
 | ![swish](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/swish.svg?sanitize=true) | assets/apm/swish.svg |
-| ![swissbilling](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/swissbilling.svg?sanitize=true) | assets/apm/swissbilling.svg |
 | ![swisscom-pay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/swisscom-pay.svg?sanitize=true) | assets/apm/swisscom-pay.svg |
 | ![swisspass](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/swisspass.svg?sanitize=true) | assets/apm/swisspass.svg |
 | ![twint](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/twint.svg?sanitize=true) | assets/apm/twint.svg |
