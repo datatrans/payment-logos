@@ -71,6 +71,7 @@ Shortcuts to individual sections:
 | ![cembrapay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/cembrapay.svg?sanitize=true) | assets/apm/cembrapay.svg |
 | ![crif](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/crif.svg?sanitize=true) | assets/apm/crif.svg |
 | ![crypto](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/crypto.svg?sanitize=true) | assets/apm/crypto.svg |
+| ![dimoco](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/dimoco.svg?sanitize=true) | assets/apm/dimoco.svg |
 | ![ebill](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/ebill.svg?sanitize=true) | assets/apm/ebill.svg |
 | ![eps](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/eps.svg?sanitize=true) | assets/apm/eps.svg |
 | ![giropay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/giropay.svg?sanitize=true) | assets/apm/giropay.svg |
