@@ -30,6 +30,8 @@ Shortcuts to individual sections:
 | ![maestro-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/maestro-alt.svg?sanitize=true) | assets/cards/maestro-alt.svg |
 | ![maestro](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/maestro.svg?sanitize=true) | assets/cards/maestro.svg |
 | ![mastercard-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/mastercard-alt.svg?sanitize=true) | assets/cards/mastercard-alt.svg |
+| ![rupay-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/rupay-alt.svg?sanitize=true) | assets/cards/rupay-alt.svg |
+| ![rupay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/rupay.svg?sanitize=true) | assets/cards/rupay.svg |
 | ![uatp](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/uatp.svg?sanitize=true) | assets/cards/uatp.svg |
 | ![unionpay](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/unionpay.svg?sanitize=true) | assets/cards/unionpay.svg |
 | ![visa-alt](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/cards/visa-alt.svg?sanitize=true) | assets/cards/visa-alt.svg |
