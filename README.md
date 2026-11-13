@@ -67,6 +67,7 @@ Shortcuts to individual sections:
 | ![availabill](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/availabill.svg?sanitize=true) | assets/apm/availabill.svg |
 | ![bancontact](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/bancontact.svg?sanitize=true) | assets/apm/bancontact.svg |
 | ![blik](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/blik.svg?sanitize=true) | assets/apm/blik.svg |
+| ![boleto](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/boleto.svg?sanitize=true) | assets/apm/boleto.svg |
 | ![boncard](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/boncard.svg?sanitize=true) | assets/apm/boncard.svg |
 | ![bonus-card](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/bonus-card.svg?sanitize=true) | assets/apm/bonus-card.svg |
 | ![butterfly-card](https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/butterfly-card.svg?sanitize=true) | assets/apm/butterfly-card.svg |
